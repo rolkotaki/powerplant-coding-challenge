@@ -1,4 +1,4 @@
-# powerplant-coding-challenge
+# Powerplant Coding Challenge
 
 
 ## Description
